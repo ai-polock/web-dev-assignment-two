@@ -231,6 +231,7 @@ font-weight: 700;
     background-image: url(assets/bg.png);
     gap: 80px;
     align-items: center; 
+    margin: 0 auto;
 }
 
 .story-title{
