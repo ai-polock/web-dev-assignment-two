@@ -248,6 +248,7 @@ font-weight: 700;
     gap: 20px;
     max-width: 1140px;
     align-items: center;
+    margin-left: auto;
 }
 
 .story-card-large{
@@ -257,6 +258,7 @@ font-weight: 700;
     background: rgb(255, 255, 255);
     grid-row: span 2;
     margin-left: 140px;
+    
 }
 
 .story-title-large{
