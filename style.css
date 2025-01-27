@@ -228,7 +228,6 @@ font-weight: 700;
 /* Our Stories Sectio Style */
 
 .our-stories{
-    max-width: 1440px;
     background-image: url(assets/bg.png);
     gap: 80px;
 }
