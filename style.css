@@ -247,6 +247,7 @@ font-weight: 700;
     grid-template-rows: repeat(2, 1fr);
     gap: 20px;
     max-width: 1140px;
+    align-items: center;
 }
 
 .story-card-large{
